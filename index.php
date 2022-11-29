@@ -10,5 +10,6 @@
     <h1>Soy el Index</h1>
     <h1>Holiii</h1>
     <h2>Soy otra línea</h2>
+    <h2>Gh remoto </h2>
 </body>
 </html>
